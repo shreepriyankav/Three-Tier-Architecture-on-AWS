@@ -193,29 +193,9 @@ SNS Notification
 This allows infrastructure issues to be identified before they affect application availability.
 
 # 📁 Project Structure
-aws-3-tier-architecture/
-│
-├── README.md
-│
-├── architecture/
-│   └── aws-3-tier-architecture.png
-│
-├── screenshots/
-│   ├── vpc.png
-│   ├── subnets.png
-│   ├── route-tables.png
-│   ├── ec2.png
-│   ├── alb.png
-│   ├── rds.png
-│   ├── cloudwatch.png
-│   └── sns.png
-│
-├── infra/
-│   ├── terraform/
-│   └── cloudformation/
-│
-└── documentation/
-    └── project-documentation.pdf
+
+<img width="721" height="572" alt="Screenshot 2026-09-16 162407" src="https://github.com/user-attachments/assets/cbc3b5c2-21be-4088-a83f-4eae28ff94cd" />
+
     
 # 🎯 Real-World Use Case
 
